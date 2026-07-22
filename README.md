@@ -1,6 +1,6 @@
 # Portfolio — David SOUWAN
 
-Portfolio professionnel statique de **David SOUWAN**, Data Analyst Junior spécialisé en Excel, SQL, Python et Power BI.
+Portfolio professionnel statique de **David SOUWAN**, Data Analyst Senior spécialisé en Excel, SQL, Python et Power BI.
 
 ## Fonctionnalités
 
